@@ -15,3 +15,24 @@ You can either play with ties not awarding any points (simplest), or having ties
 At the last hole, whoever has the fewest points gets to be the wolf.  If there is a tie, the person who last was the wolf gets to be the wolf.
 
 We typically played $1 a point...if you do the scoring right, the negatives and positives should balance out.
+
+# User Interface
+## Startup info
+* Need to input 4 golfers names
+* "Begin" randomizes rotating wolf selection and chooses first hole tee-off order.
+
+## On each hole
+* Indicates any carryover
+* Shows tee-off order (based on honors golf)
+* Choose wolf partner
+* Input scores
+* Calculates points for that hole
+
+## Overall display
+* shows 9 hole summary with plusses and minuses, and overall standings
+* Edit past hole scores?
+
+
+
+
+
